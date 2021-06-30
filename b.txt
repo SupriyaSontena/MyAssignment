@@ -1,1 +1,1 @@
-Created b.txt and altered a.txt
+Created b.txt and altered a
